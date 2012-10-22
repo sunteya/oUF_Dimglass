@@ -1,0 +1,29 @@
+## Interface: 50001
+## Author: Loshine
+## Title: oUF_Dimglass
+## Version: 2.0.3
+## RequiredDeps: oUF
+## X-Category: UnitFrame
+
+cfg.lua
+tags.lua
+castbar.lua
+lib.lua
+core.lua
+mirrorbar.lua
+
+Elements\afk.lua
+Elements\DebuffHighlight.lua
+Elements\indicators.lua
+Elements\raidDebuffs.lua
+Elements\range.lua
+Elements\trinkets.lua
+
+Plugins\Smooth.lua
+Plugins\Experience.lua
+Plugins\HarmonyBar.lua
+Plugins\TotemBar.lua
+Plugins\WarlockSpecBars.lua
+Plugins\WeaponEnchant.lua
+Plugins\ThreatBar.lua
+Plugins\Reputation.lua
